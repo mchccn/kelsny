@@ -2,6 +2,10 @@
 
 I like to make useless things with crappy code.
 
+I like editing images in my free time.
+
+I like being repetitive.
+
 ![me](invertme.png)
 
 Right now I'm making [The Archive](https://github.com/im-lonely/the-archive-bot) even crappier with more crappy code.
