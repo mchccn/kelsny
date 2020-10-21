@@ -11,6 +11,8 @@ Collaboration is great, I'm always available!
 I don't need help with anything though, Stack Overflow seems just fine.😃
 
 Pronouns:
-- It/Its/It's
+- It
+- Its
+- It's
 
 Ah well, see you later! 👋
