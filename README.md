@@ -8,7 +8,7 @@ I like being repetitive.
 
 ![me](invertme.png)
 
-Right now I'm making [The Archive](https://github.com/im-lonely/the-archive-bot) even crappier with more crappy code.
+Right now I'm making [Kingdom Support](https://github.com/cursorsdottsx/kingdom-support-bot) even crappier with more crappy code.
 
 I'm presently pursuing backend to be a fullstack developer.💻
 
@@ -22,3 +22,5 @@ Pronouns:
 - It's
 
 Ah well, see you later! 👋
+
+(I totally did not copy the example they give you)
