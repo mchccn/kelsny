@@ -8,7 +8,7 @@ I like being repetitive.
 
 ![me](invertme.png)
 
-Right now I'm making [Kingdom Support](https://github.com/cursorsdottsx/kingdom-support-bot) even crappier with more crappy code.
+Right now I'm making nothing and being useless :D
 
 I'm presently pursuing backend to be a fullstack developer.💻
 
