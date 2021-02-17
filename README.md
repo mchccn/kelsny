@@ -1,26 +1,17 @@
 ### Hi, I am \[Cursors\]
 
-I like to make useless things with crappy code.
+#### I am pursuing fullstack, and love to dabble in discord.js on the side.
 
-I like editing images in my free time.
+I'm apart of [AeroWare](https://github.com/aero-ware/) and I love to make original things there.
 
-I like being repetitive.
+I can be found on Discord as `[Cursors]#9257` and I lurk around in AeroWare, The Coding Den, Worn Off Keys, and MenuDocs.
 
-![me](invertme.png)
+*For my main course, I will have TypeScript.*
 
-Right now I'm making nothing and being useless :D
+*On the side, I can have some React and Next.*
 
-I'm presently pursuing backend to be a fullstack developer.💻
+*I guess Express will be good as an appetizer.*
 
-Collaboration is great, I'm always available!
+*Mongo and mongoose for desert sounds wonderful as well.*
 
-I don't need help with anything though, Stack Overflow seems just fine.😃
-
-Pronouns:
-- It
-- Its
-- It's
-
-Ah well, see you later! 👋
-
-(I totally did not copy the example they give you)
+https://github-readme-stats.vercel.app/api?username=cursorsdottsx
