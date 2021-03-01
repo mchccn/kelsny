@@ -14,4 +14,6 @@ I can be found on Discord as `[Cursors]#9257` and I lurk around in AeroWare, The
 
 *Mongo and mongoose for desert sounds wonderful as well.*
 
+![My Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cursorsdottsx&layout=compact&theme=dark)
+
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=cursorsdottsx&count_private=true&show_icons=true&theme=dark)
