@@ -1,6 +1,6 @@
 ### Hi, I am \[Cursors\]
 
-**I'm a beginning fullstack developer that is open to learning new things!**
+[**I'm a fullstack developer that is open to learning new things!**](https://cursorsdottsx.github.io/)
 
 I can be found on Discord as `[Cursors]#9257` and I lurk around in The Coding Den all day.
 
@@ -9,3 +9,4 @@ I'm pretty much addicted to TypeScript, which is why I made [InfinitelyTyped](ht
 ![My Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cursorsdottsx&layout=compact&theme=dark)
 
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=cursorsdottsx&count_private=true&show_icons=true&theme=dark)
+
