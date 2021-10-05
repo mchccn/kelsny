@@ -20,3 +20,5 @@ so currently I'm studying other, easier, more intuitive fields of computer scien
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=cursorsdottsx&count_private=true&show_icons=true&theme=dark)
 
 Currently I am studying - Computer Science: Compilers and interpreters
+
+**Finally nearing two years of programming :tada:**
