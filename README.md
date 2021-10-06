@@ -6,8 +6,6 @@
 - Reddit `u/CursorsDev`
 - Twitter `cursorsdottsx`
 
-![My Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cursorsdottsx&layout=compact&theme=dark)
-
 I know a few languages well enough, but I mainly excel in Java/JavaScript/Python.
 
 Sometimes I like to dip my toes into systems programming with Rust or even C++.
