@@ -22,3 +22,5 @@ so currently I'm studying other, easier, more intuitive fields of computer scien
 Currently I am studying - Computer Science: Compilers and interpreters
 
 **Finally nearing two years of programming :tada:**
+
+Interested in how I create things out of only TypeScript types? [How to TypeScript](https://cursorsdottsx.github.io/how-to-typescript) is your source.
