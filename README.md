@@ -25,3 +25,5 @@ Interested in how I create things out of only TypeScript types? [How to TypeScri
 ![My Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cursorsdottsx&layout=compact&theme=dark&count_private=true)
 
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=cursorsdottsx&count_private=true&show_icons=true&theme=dark)
+
+![View counter](https://komarev.com/ghpvc/?username=cursorsdottsx&color=00DDDB)
