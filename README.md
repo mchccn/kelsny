@@ -18,7 +18,7 @@ so currently I'm studying other, easier, more intuitive fields of computer scien
 
 Currently I am studying - Computer Science: Compilers and interpreters
 
-Current project - [TypeGC - Type guard compiler](https://github.com/cursorsdottsx/typegc/) give it a ⭐ pls!
+Current project - Baba Is You: TypeScript [STAGE: PROTOTYPING]
 
 **Finally nearing two years of programming :tada:**
 
