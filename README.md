@@ -28,4 +28,8 @@ Interested in how I create things out of only TypeScript types? [How to TypeScri
 
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=cursorsdottsx&count_private=true&show_icons=true&theme=dark)
 
+Also I'm a sweaty codewars player:
+
+![Codewars badge](https://www.codewars.com/users/cursorsdottsx/badges/large)
+
 ![View counter](https://komarev.com/ghpvc/?username=cursorsdottsx&color=00DDDB)
