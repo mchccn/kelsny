@@ -18,7 +18,7 @@ so currently I'm studying other, easier, more intuitive fields of computer scien
 
 Currently I am studying - Computer Science: Compilers and interpreters
 
-Current project - Baba Is You: TypeScript [STAGE: PROTOTYPING]
+Current project - [Baba Is You: TypeScript Edition](https://github.com/cursorsdottsx/babaisyou)
 
 **Finally nearing two years of programming :tada:**
 
