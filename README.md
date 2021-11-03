@@ -1,6 +1,8 @@
 ### Hi, I am \[Cursors\]!
 <img align="right" width="128" height="128" src="invertme.png" />
 
+uh pls dont visit my site i havent updated the info in months
+
 #### [I'm a TypeScript main, JavaScript needs a buff, sometimes I play Rust, Python and even Java.](https://cursorsdottsx.github.io/)
 
 - Discord `[Cursors]#9257`
