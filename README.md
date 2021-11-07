@@ -30,6 +30,6 @@ Interested in how I create things out of only TypeScript types? [How to TypeScri
 
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=cursorsdottsx&count_private=true&show_icons=true&theme=dark)
 
-![Spending my time poorly](https://github-readme-stats.vercel.app/api/wakatime?username=cursorsdottsx&layout=compact)
+![Spending my time poorly](https://github-readme-stats.vercel.app/api/wakatime?username=cursorsdottsx&layout=compact&theme=dark)
 
 ![View counter](https://komarev.com/ghpvc/?username=cursorsdottsx&color=00DDDB)
