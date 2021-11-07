@@ -26,7 +26,7 @@ Current project - [Baba Is You: TypeScript Edition](https://github.com/cursorsdo
 
 Interested in how I create things out of only TypeScript types? [How to TypeScript](https://cursorsdottsx.github.io/how-to-typescript) is your source.
 
-![My Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cursorsdottsx&layout=compact&theme=dark&count_private=true&langs_count=6&hide=html,css,nearley&exclude_repo=ts-parse-number,ts-code-dump,ts-regex-engine,ts-parse-css,ts-validate-parentheses,ts-brainfuck-interpreter,ts-metasyntax-parser,ts-minimax,window-system,z,x,o,i,f,c,s,v,t,l,h,e)
+![My Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cursorsdottsx&layout=compact&theme=dark&count_private=true&langs_count=5&hide=html,css,nearley&exclude_repo=ts-parse-number,ts-code-dump,ts-regex-engine,ts-parse-css,ts-validate-parentheses,ts-brainfuck-interpreter,ts-metasyntax-parser,ts-minimax,window-system,z,x,o,i,f,c,s,v,t,l,h,e)
 
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=cursorsdottsx&count_private=true&show_icons=true&theme=dark)
 
