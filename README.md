@@ -3,15 +3,11 @@
 
 uh pls dont visit my site i havent updated the info in months
 
-#### [I'm a TypeScript main, JavaScript needs a buff, sometimes I play Rust, Python and even Java.](https://cursorsdottsx.github.io/)
+#### [Friendship ended with TypeScript, Rust is new best friend](https://cursorsdottsx.github.io/)
 
 - Discord `[Cursors]#9257`
 - Reddit `u/CursorsDev`
 - Twitter `cursorsdottsx`
-
-I know a few languages well enough, but I mainly excel in Java/JavaScript/Python.
-
-Sometimes I like to dip my toes into systems programming with Rust or even C++.
 
 I have a great interest in physics and geometry (primarily linear algebra), and computer graphics.
 
@@ -20,7 +16,7 @@ so currently I'm studying other, easier, more intuitive fields of computer scien
 
 Currently I am studying - Computer Science: Compilers and interpreters
 
-Current project - [Baba Is You: TypeScript Edition](https://github.com/cursorsdottsx/babaisyou)
+Current project - [Lox Implementation: Rust](https://github.com/cursorsdottsx/lox)
 
 **Finally nearing two years of programming :tada:**
 
