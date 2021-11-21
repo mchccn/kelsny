@@ -22,7 +22,7 @@ Current project - [Lox Implementation: Rust](https://github.com/cursorsdottsx/lo
 
 Interested in how I create things out of only TypeScript types? [How to TypeScript](https://cursorsdottsx.github.io/how-to-typescript) is your source.
 
-![My Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cursorsdottsx&layout=compact&theme=dark&count_private=true&langs_count=8&hide=html,css,nearley&exclude_repo=ts-parse-number,ts-code-dump,ts-regex-engine,ts-parse-css,ts-validate-parentheses,ts-brainfuck-interpreter,ts-metasyntax-parser,ts-minimax,docgen,p64,angular-speedrun,athens,angular-periodic-table,vargs,arcade,lnjson,vectors,window-system,committed,css-groups,css-extends,z,x,o,i,f,c,s,v,t,l,h,e&v=2)
+![My Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cursorsdottsx&layout=compact&theme=dark&count_private=true&langs_count=8&hide=html,css,nearley&exclude_repo=ts-parse-number,ts-code-dump,ts-regex-engine,ts-parse-css,ts-validate-parentheses,ts-brainfuck-interpreter,ts-metasyntax-parser,ts-minimax,docgen,p64,angular-speedrun,athens,angular-periodic-table,vargs,arcade,lnjson,vectors,graphchat,window-system,committed,css-groups,css-extends,z,x,o,i,f,c,s,v,t,l,h,e&v=2)
 
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=cursorsdottsx&count_private=true&show_icons=true&theme=dark&v=2)
 
