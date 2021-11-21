@@ -29,3 +29,7 @@ Interested in how I create things out of only TypeScript types? [How to TypeScri
 ![Spending my time poorly](https://github-readme-stats.vercel.app/api/wakatime?username=cursorsdottsx&layout=compact&theme=dark&v=2)
 
 ![View counter](https://komarev.com/ghpvc/?username=cursorsdottsx&color=00DDDB&v=2)
+
+Stuck on a 2-4 kyu kata? Check out my gists 👉 [https://gist.github.com/cursorsdottsx]()
+
+![Codewars](https://www.codewars.com/users/cursorsdottsx/badges/large)
