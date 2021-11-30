@@ -14,7 +14,7 @@ I have a great interest in physics and geometry (primarily linear algebra), and 
 Of course, computer graphics requires lots of mathematics, most of which I don't know yet (what the hell is a wedge product and bivector???),
 so currently I'm studying other, easier, more intuitive fields of computer science (and of course, the math needed to render a freaking cube).
 
-Currently I am studying - Computer Science: Compilers and interpreters
+Currently I am studying - Data Structures and Algorithms: Trees
 
 Current project - [MultiServer](https://github.com/dheerajpv/multiserver)
 
