@@ -7,7 +7,7 @@
 
 Currently I am studying - Arbitrary precision arithmetic
 
-Current project - [InfInt](https://github.com/cursorsdottsx/infint)
+Current project - Random Rust
 
 **Finally nearing two years of programming :tada:**
 
