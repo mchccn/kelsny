@@ -5,9 +5,9 @@
 - Reddit `u/CursorsDev`
 - Twitter `cursorsdottsx`
 
-Currently I am studying - Arbitrary precision arithmetic
+Currently I am studying - Chess Engines 
 
-Current project - Random Rust
+Current project - Rust Multi-player Chess
 
 **Finally nearing two years of programming :tada:**
 
