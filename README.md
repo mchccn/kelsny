@@ -1,7 +1,7 @@
-### Hi, I am \[Cursors\]!
+### Hi, I am cursorsdottsx!
 <img align="right" width="128" height="128" src="invertme.png" />
 
-- Discord `[Cursors]#9257`
+- Discord `youdateme#9257`
 - Reddit `u/CursorsDev`
 - Twitter `cursorsdottsx`
 
