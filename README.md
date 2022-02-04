@@ -5,9 +5,9 @@
 - Reddit `u/CursorsDev`
 - Twitter `cursorsdottsx`
 
-Currently I am studying - Chess Engines 
+Currently I am studying - Database Management Systems
 
-Current project - Rust Multi-player Chess
+Current project - [CursorsQL](https://github.com/cursorsdottsx/cursorsql)
 
 **Finally nearing two years of programming :tada:**
 
