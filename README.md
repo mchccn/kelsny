@@ -7,7 +7,7 @@
 
 Currently I am studying - Database Management Systems
 
-Current project - [CursorsQL](https://github.com/cursorsdottsx/cursorsql)
+Current project - [Quo](https://github.com/cursorsdottsx/quo)
 
 **Finally nearing two years of programming :tada:**
 
