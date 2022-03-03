@@ -19,7 +19,7 @@ Stuck on a 2-4 kyu kata? Check out my gists 👉 https://gist.github.com/cursors
 
 <img align="right" alt="Stack Overflow" src="https://stackoverflow.com/users/flair/18244921.png" />
 
-![Codewars](https://www.codewars.com/users/cursorsdottsx/badges/large)
+<img src="https://www.codewars.com/users/cursorsdottsx/badges/large" />
 
 <img align="left" alt="My Stats" src="https://github-readme-stats.vercel.app/api?username=cursorsdottsx&count_private=true&show_icons=true&theme=dark&v=2" height=170 />
 
