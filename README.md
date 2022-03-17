@@ -1,8 +1,8 @@
-### Hi, I am cursorsdottsx!
+### Hi, I am cursorsdottsx (Kelly)!
 <img align="right" width="128" height="128" src="invertme.png" />
 
-- Discord `youdateme#9257`
-- Reddit `u/CursorsDev`
+- Discord `kellys#9257`
+- xxx
 - Twitter `cursorsdottsx`
 
 Currently I am studying - Database Management Systems
