@@ -1,19 +1,12 @@
 ### Hi, I'm Kelly!
-<img align="right" width="128" height="128" src="invertme.png" />
 
 - Discord `awkelly#9257`
-- xxx
-- Twitter `cursorsdottsx`
 
-Current project - [Quo](https://github.com/cursorsdottsx/quo)
+Current project - im bored af
 
-**Finally nearing two years of programming :tada:**
+Interested in how I create things out of only TypeScript types? [How to TypeScript](https://kelsny.github.io/how-to-typescript) is your source.
 
-Interested in how I create things out of only TypeScript types? [How to TypeScript](https://cursorsdottsx.github.io/how-to-typescript) is your source.
-
-Got some spare time and want to learn some useless information? Hop on over to [Something you might not know](https://cursorsdottsx.github.io/something-you-might-not-know/)!
-
-Stuck on a 2-4 kyu kata? Check out my gists 👉 https://gist.github.com/cursorsdottsx
+Stuck on a 2-4 kyu kata? Check out my gists 👉 https://gist.github.com/kelsny
 
 <img align="right" alt="Stack Overflow" src="https://stackoverflow.com/users/flair/18244921.png" />
 
