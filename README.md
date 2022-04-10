@@ -1,6 +1,6 @@
 ### Hi, I'm Kelly!
 
-- Discord `awkelly#9257`
+- Discord `kelly ♡#9257`
 
 Current project - im bored af
 
