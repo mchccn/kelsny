@@ -1,8 +1,8 @@
 ### Hi, I'm Kelly!
 
-- Discord `kelly ♡#9257`
+- Discord `kelly#1369`
 
-Current project - im bored af
+Current project - butcanyoudoitintypes
 
 Interested in how I create things out of only TypeScript types? [How to TypeScript](https://kelsny.github.io/how-to-typescript) is your source.
 
