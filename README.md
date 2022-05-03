@@ -1,5 +1,6 @@
 ### Hi, I'm Kelly!
 
+- 16 they/them
 - Discord `kelly#1369`
 
 Current project - butcanyoudoitintypes
