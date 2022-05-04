@@ -1,7 +1,7 @@
 ### Hi, I'm Kelly!
 
 - 16 they/them
-- /use/nonbin
+- /usr/nonbin
 - Discord `kelly#1369`
 
 Current project - butcanyoudoitintypes
