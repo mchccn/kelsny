@@ -1,6 +1,7 @@
 ### Hi, I'm Kelly!
 
 - 16 they/them
+- /use/nonbin
 - Discord `kelly#1369`
 
 Current project - butcanyoudoitintypes
@@ -9,7 +10,7 @@ Interested in how I create things out of only TypeScript types? [How to TypeScri
 
 Stuck on a 2-4 kyu kata? Check out my gists 👉 https://gist.github.com/kelsny
 
-<img align="right" alt="Stack Overflow" src="https://stackoverflow.com/users/flair/18244921.png" />
+<img align="right" alt="Stack Overflow" src="https://stackoverflow.com/users/flair/18244921.png?v=2" />
 
 <img src="https://www.codewars.com/users/catgirlkellys/badges/large" />
 
