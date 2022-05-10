@@ -1,18 +1,17 @@
 ### Hi, I'm Kelly!
 
-- 16 they/them
-- /usr/nonbin
+- **16 they/them (he/him?)**
+- Twitter `isimp4kelly`
 - Discord `kelly#1369`
+- StackOverflow `catgirlkelly`
 
-Current project - butcanyoudoitintypes
+Why do I have 5 million commits in my stats? Visit my [overcommitted](https://github.com/kelsny/overcommitted) and find out for yourself.
 
-Interested in how I create things out of only TypeScript types? [How to TypeScript](https://kelsny.github.io/how-to-typescript) is your source.
+Fan of darker blurple themes? Try my VSCode [Nebula theme](https://marketplace.visualstudio.com/items?itemName=kelsny.nebsies)! I'd like to hear any feedback and suggestions.
 
-Stuck on a 2-4 kyu kata? Check out my gists 👉 https://gist.github.com/kelsny
+Want to challenge your knowledge of the TypeScript type system? You might be interested in [But can you do it in types?](https://github.com/kelsny/butcanyoudoitintypes)!
 
-<img align="right" alt="Stack Overflow" src="https://stackoverflow.com/users/flair/18244921.png?v=2" />
-
-<img src="https://www.codewars.com/users/catgirlkellys/badges/large" />
+Current project - [Nebula](https://github.com/kelsny/nebula)
 
 <img align="left" alt="My Stats" src="https://github-readme-stats.vercel.app/api?username=kelsny&count_private=true&show_icons=true&theme=dark&v=2" height=170 />
 
