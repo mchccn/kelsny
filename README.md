@@ -5,7 +5,7 @@
 - Discord `kelly#1369`
 - StackOverflow `catgirlkelly`
 
-Why do I have 5 million commits in my stats? Visit my [overcommitted](https://github.com/kelsny/overcommitted) and find out for yourself.
+Why do I have 5 million commits in my stats? Visit my [overcommitted](https://github.com/kelsny/overcommitted) repository and find out for yourself.
 
 Fan of darker blurple themes? Try my VSCode [Nebula theme](https://marketplace.visualstudio.com/items?itemName=kelsny.nebsies)! I'd like to hear any feedback and suggestions.
 
