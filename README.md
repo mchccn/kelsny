@@ -4,6 +4,7 @@
 - Twitter `isimp4kelly`
 - Discord `kelly#1369`
 - StackOverflow `catgirlkelly`
+- Minecraft `hittingonme`
 
 Why do I have 5 million commits in my stats? Visit my [overcommitted](https://github.com/kelsny/overcommitted) repository and find out for yourself.
 
@@ -11,7 +12,7 @@ Fan of darker blurple themes? Try my VSCode [Nebula theme](https://vscode.dev/th
 
 Want to challenge your knowledge of the TypeScript type system? You might be interested in [But can you do it in types?](https://github.com/kelsny/butcanyoudoitintypes)!
 
-Current project - [Nebula](https://github.com/kelsny/nebula)
+Current project - [Lumberjack](https://github.com/kelsny/lumberjack)
 
 <img align="left" alt="My Stats" src="https://github-readme-stats.vercel.app/api?username=kelsny&count_private=true&show_icons=true&theme=dark&v=2" height=170 />
 
