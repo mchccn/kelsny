@@ -1,9 +1,9 @@
 ### Hi, I'm Kelly!
 
-- **16 they/them (he/him?)**
+- **16 🏳️‍⚧️ he/him**
 - Twitter `isimp4kelly`
 - Discord `kelly#1369`
-- StackOverflow `catgirlkelly`
+- StackOverflow `hittingonme`
 - Minecraft `hittingonme`
 
 Why do I have 5 million commits in my stats? Visit my [overcommitted](https://github.com/kelsny/overcommitted) repository and find out for yourself.
