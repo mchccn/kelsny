@@ -12,7 +12,7 @@ Fan of darker blurple themes? Try my VSCode [Nebula theme](https://vscode.dev/th
 
 Want to challenge your knowledge of the TypeScript type system? You might be interested in [But can you do it in types?](https://github.com/kelsny/butcanyoudoitintypes)!
 
-Current project - [Lumberjack](https://github.com/kelsny/lumberjack)
+Current project - [Synth](https://github.com/kelsny/synth)
 
 <img align="left" alt="My Stats" src="https://github-readme-stats.vercel.app/api?username=kelsny&count_private=true&show_icons=true&theme=dark&v=2" height=170 />
 
