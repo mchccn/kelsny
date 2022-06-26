@@ -4,7 +4,8 @@
 - Twitter `isimp4kelly`
 - Discord `kelly#1369`
 - StackOverflow `hittingonme`
-- Minecraft `hittingonme`
+- Minecraft `hhearts`
+- League of Legends `mmordekaiser`
 
 Why do I have 5 million commits in my stats? Visit my [overcommitted](https://github.com/kelsny/overcommitted) repository and find out for yourself.
 
