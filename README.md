@@ -3,7 +3,7 @@
 - **16 🏳️‍⚧️ he/him**
 - Twitter `isimp4kelly`
 - Discord `kelly#1369`
-- StackOverflow `hittingonme`
+- StackOverflow `hhearts`
 - Minecraft `hhearts`
 - League of Legends `mmordekaiser`
 
