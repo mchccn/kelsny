@@ -2,7 +2,7 @@
 
 - **16 🏳️‍⚧️ he/him**
 - Twitter `isimp4kelly`
-- Discord `kelly#1369`
+- Discord `arcana#1369`
 - StackOverflow `kelly`
 - Minecraft `Kellying`
 - League of Legends `a xerath`
