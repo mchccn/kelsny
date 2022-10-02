@@ -4,7 +4,7 @@
 - Twitter `isimp4kelly`
 - Discord `kcat#1369`
 - StackOverflow `caTS`
-- Minecraft `ArcanistKat`
+- Minecraft `npmv`
 - League of Legends `a xerath`
 
 Why do I have 5 million commits in my stats? Visit my [overcommitted](https://github.com/kelsny/overcommitted) repository and find out for yourself.
