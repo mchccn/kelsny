@@ -4,18 +4,8 @@
 - Twitter `isimp4kelly`
 - Discord `kcat#1369`
 - StackOverflow `caTS`
-- Minecraft `PlCKUPLINES`
-- League of Legends `a xerath`
-
-Why do I have 5 million commits in my stats? Visit my [overcommitted](https://github.com/kelsny/overcommitted) repository and find out for yourself.
 
 Fan of darker blurple themes? Try my VSCode [Nebula theme](https://vscode.dev/theme/kelsny.nebsies)! I'd like to hear any feedback and suggestions.
-
-Want to challenge your knowledge of the TypeScript type system? You might be interested in [But can you do it in types?](https://github.com/kelsny/butcanyoudoitintypes)!
-
-Current project - none
-
-Also, I'm a rep-aholic:
 
 <a href="https://stackoverflow.com/users/18244921/cats"><img src="https://stackoverflow.com/users/flair/18244921.png" width="208" height="58" alt="profile for caTS at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for caTS at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
