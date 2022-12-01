@@ -2,7 +2,7 @@
 
 - **16 they/them**
 - Twitter `isimp4kelly`
-- Discord `kcat#1369`
+- Discord `vera.#1369`
 - StackOverflow `caTS`
 
 Fan of darker blurple themes? Try my VSCode [Nebula theme](https://vscode.dev/theme/kelsny.nebsies)! I'd like to hear any feedback and suggestions.
