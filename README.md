@@ -1,4 +1,4 @@
-### Hi, I'm Kelly!
+### Hi, I'm Vera!
 
 - **16 they/them**
 - Twitter `isimp4kelly`
