@@ -1,11 +1,10 @@
-### Hi, I'm Vera!
 
 - **16 she/her**
 - Twitter `isimp4kelly`
 - Discord `vera.#0654`
 - StackOverflow `vera.`
 
-Fan of darker blurple themes? Try my VSCode [Nebula theme](https://vscode.dev/theme/kelsny.nebsies)! I'd like to hear any feedback and suggestions.
+drowning in school.
 
 <a href="https://stackoverflow.com/users/18244921/cats"><img src="https://stackoverflow.com/users/flair/18244921.png" width="208" height="58" alt="profile for caTS at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for caTS at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
