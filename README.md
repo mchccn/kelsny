@@ -1,6 +1,6 @@
 ### Hi, I'm Vera!
 
-- **16 they/them**
+- **16 she/her**
 - Twitter `isimp4kelly`
 - Discord `vera.#0654`
 - StackOverflow `vera.`
