@@ -1,5 +1,1 @@
-typescript and minecraft i guess
-
-- Twitter `isimp4kelly`
-- Discord `vera.#0654`
-
+minecraft, typescript, 鳳梨酥, and 蛋撻
