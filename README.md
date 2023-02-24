@@ -1,1 +1,3 @@
-minecraft, typescript, 鳳梨酥, and 蛋撻
+typescript hoe
+
+Discord: `vr#1337`
